@@ -1,0 +1,3 @@
+2023-12-16 13:55:47,750 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-12-16 14:40:39,573 [Worker-34: Remove Repositories] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\kisho\Downloads\Finexo Free Website Template - Free-CSS.com\finexo-html\css\.git]
+2023-12-16 14:41:46,411 [Worker-34: Git Repository Change Scanner] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\kisho\git\repository\.git]
